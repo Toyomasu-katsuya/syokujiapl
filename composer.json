@@ -1,0 +1,8 @@
+{
+    "name": "demo/original_application",
+    "type": "project",
+    "require": {
+	    "ext-mbstring": "*",
+	    "ext-gd": "*",
+    }
+}
